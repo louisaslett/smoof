@@ -2,7 +2,7 @@
 % Please edit documentation in R/makeUFFunction.R
 \name{makeUFFunction}
 \alias{makeUFFunction}
-\title{Generator for the functions UF1, ..., UF10 of the CEC 2009.}
+\title{Generator for the functions UF1, ..., UF10 of the CEC 2009}
 \usage{
 makeUFFunction(dimensions, id)
 }
@@ -17,7 +17,7 @@ Instance identifier. Integer value between 1 and 10.}
 [\code{smoof_single_objective_function}]
 }
 \description{
-Generator for the functions UF1, ..., UF10 of the CEC 2009.
+Generator for the functions UF1, ..., UF10 of the CEC 2009
 }
 \note{
 The implementation is based on the original CPP implementation by Qingfu

@@ -2,7 +2,7 @@
 % Please edit documentation in R/addLoggingWrapper.R
 \name{addLoggingWrapper}
 \alias{addLoggingWrapper}
-\title{Return a function which internally stores x or y values.}
+\title{Return a function which internally stores x or y values}
 \usage{
 addLoggingWrapper(fn, logg.x = FALSE, logg.y = TRUE, size = 100L)
 }

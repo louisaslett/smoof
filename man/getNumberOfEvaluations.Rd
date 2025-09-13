@@ -3,7 +3,7 @@
 \name{getNumberOfEvaluations}
 \alias{getNumberOfEvaluations}
 \title{Returns the number of function evaluations performed by the wrapped
-\code{smoof_function}.}
+\code{smoof_function}}
 \usage{
 getNumberOfEvaluations(fn)
 }
@@ -17,5 +17,5 @@ Wrapped \code{smoof_function}.}
 }
 \description{
 Returns the number of function evaluations performed by the wrapped
-\code{smoof_function}.
+\code{smoof_function}
 }

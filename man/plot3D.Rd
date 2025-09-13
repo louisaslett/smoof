@@ -2,7 +2,7 @@
 % Please edit documentation in R/plot3D.R
 \name{plot3D}
 \alias{plot3D}
-\title{Surface plot of two-dimensional test function.}
+\title{Surface plot of two-dimensional test function}
 \usage{
 plot3D(x, length.out = 100L, package = "plot3D", ...)
 }

@@ -2,7 +2,7 @@
 % Please edit documentation in R/snof.R
 \name{snof}
 \alias{snof}
-\title{Helper function to create numeric single-objective optimization test function.}
+\title{Helper function to create numeric single-objective optimization test function}
 \usage{
 snof(
   name = NULL,

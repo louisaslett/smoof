@@ -2,7 +2,7 @@
 % Please edit documentation in R/resetEvaluationCounter.R
 \name{resetEvaluationCounter}
 \alias{resetEvaluationCounter}
-\title{Reset evaluation counter.}
+\title{Reset evaluation counter}
 \usage{
 resetEvaluationCounter(fn)
 }
@@ -11,5 +11,5 @@ resetEvaluationCounter(fn)
 Wrapped \code{smoof_function}.}
 }
 \description{
-Reset evaluation counter.
+Reset evaluation counter
 }

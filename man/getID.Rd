@@ -2,7 +2,7 @@
 % Please edit documentation in R/getID.R
 \name{getID}
 \alias{getID}
-\title{Returns the ID / short name of the function.}
+\title{Returns the ID / short name of the function}
 \usage{
 getID(fn)
 }

@@ -1,4 +1,4 @@
-#' Checks whether constraints are violated.
+#' Checks whether constraints are violated
 #'
 #' @template arg_smoof_function
 #' @param values [\code{numeric}]\cr

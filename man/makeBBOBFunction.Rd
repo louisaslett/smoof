@@ -2,7 +2,7 @@
 % Please edit documentation in R/makeBBOBFunction.R
 \name{makeBBOBFunction}
 \alias{makeBBOBFunction}
-\title{Generator for noiseless function set of the real-parameter BBOB.}
+\title{Generator for noiseless function set of the real-parameter BBOB}
 \usage{
 makeBBOBFunction(dimensions, fid, iid)
 }

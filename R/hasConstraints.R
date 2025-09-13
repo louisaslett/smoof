@@ -1,4 +1,4 @@
-#' Checks whether the objective function has constraints.
+#' Checks whether the objective function has constraints
 #'
 #' @template arg_smoof_function
 #' @return [\code{logical(1)}]
@@ -19,7 +19,7 @@ hasConstraints.smoof_wrapped_function = function(fn) {
   return(hasBoxConstraints(fn) || hasOtherConstraints(fn))
 }
 
-#' Checks whether the objective function has box constraints.
+#' Checks whether the objective function has box constraints
 #'
 #' @template arg_smoof_function
 #' @return [\code{logical(1)}]
@@ -38,7 +38,7 @@ hasBoxConstraints.smoof_wrapped_function = function(fn) {
   return(ParamHelpers::hasFiniteBoxConstraints(getParamSet(getWrappedFunction(fn))))
 }
 
-#' Checks whether the objective function has other constraints.
+#' Checks whether the objective function has other constraints
 #'
 #' @template arg_smoof_function
 #' @return [\code{logical(1)}]

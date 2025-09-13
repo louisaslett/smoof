@@ -1,5 +1,5 @@
 #' @title
-#' Return a function which counts its function evaluations.
+#' Return a function which counts its function evaluations
 #'
 #' @description
 #' This is a counting wrapper for a \code{smoof_function}, i.e., the returned function

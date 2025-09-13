@@ -2,7 +2,7 @@
 % Please edit documentation in R/sof.jennrichsampson.R
 \name{makeJennrichSampsonFunction}
 \alias{makeJennrichSampsonFunction}
-\title{Jennrich-Sampson function.}
+\title{Jennrich-Sampson function}
 \usage{
 makeJennrichSampsonFunction()
 }

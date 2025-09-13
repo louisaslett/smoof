@@ -2,7 +2,7 @@
 % Please edit documentation in R/plot.helpers.R
 \name{getOptimaDf}
 \alias{getOptimaDf}
-\title{Get Data Frame of optima.}
+\title{Get Data Frame of optima}
 \usage{
 getOptimaDf(fn)
 }

@@ -1,5 +1,5 @@
 #' @title
-#' MOP3 function generator.
+#' MOP3 function generator
 #'
 #' @description
 #' MOP3 function from Van Valedhuizen's test suite.

@@ -2,7 +2,7 @@
 % Please edit documentation in R/sof.aluffi-pentini.R
 \name{makeAluffiPentiniFunction}
 \alias{makeAluffiPentiniFunction}
-\title{Aluffi-Pentini function.}
+\title{Aluffi-Pentini function}
 \usage{
 makeAluffiPentiniFunction()
 }

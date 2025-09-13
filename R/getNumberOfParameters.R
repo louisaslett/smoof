@@ -1,4 +1,4 @@
-#' Determines the number of parameters.
+#' Determines the number of parameters
 #'
 #' @template arg_smoof_function
 #' @return [\code{integer(1)}]

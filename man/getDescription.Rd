@@ -2,7 +2,7 @@
 % Please edit documentation in R/getDescription.R
 \name{getDescription}
 \alias{getDescription}
-\title{Returns the description of the function.}
+\title{Returns the description of the function}
 \usage{
 getDescription(fn)
 }
@@ -15,5 +15,5 @@ Objective function.}
  A character string representing the description of the function.
 }
 \description{
-Returns the description of the function.
+Returns the description of the function
 }

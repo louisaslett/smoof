@@ -1,5 +1,5 @@
 #' @title
-#' MOP7 function generator.
+#' MOP7 function generator
 #'
 #' @description
 #' MOP7 function from Van Valedhuizen's test suite.

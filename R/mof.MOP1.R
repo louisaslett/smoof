@@ -1,5 +1,5 @@
 #' @title
-#' MOP1 function generator.
+#' MOP1 function generator
 #'
 #' @description
 #' MOP1 function from Van Valedhuizen's test suite.

@@ -2,7 +2,7 @@
 % Please edit documentation in R/getGlobalOptimum.R
 \name{getGlobalOptimum}
 \alias{getGlobalOptimum}
-\title{Returns the global optimum and its value.}
+\title{Returns the global optimum and its value}
 \usage{
 getGlobalOptimum(fn)
 }
@@ -12,14 +12,14 @@ Objective function.}
 }
 \value{
 [\code{list}] List containing the following entries:
-\itemize{
-  \item{param [\code{list}]} {Named list of parameter value(s).}
-  \item{value [\code{numeric(1)}]} {Optimal value.}
-  \item{is.minimum [\code{logical(1)}]} {Is the global optimum a minimum or maximum?}
+\describe{
+  \item{param [\code{list}]}{Named list of parameter value(s).}
+  \item{value [\code{numeric(1)}]}{Optimal value.}
+  \item{is.minimum [\code{logical(1)}]}{Is the global optimum a minimum or maximum?}
 }
 }
 \description{
-Returns the global optimum and its value.
+Returns the global optimum and its value
 }
 \note{
 Keep in mind, that this method makes sense only for single-objective target function.

@@ -1,5 +1,5 @@
 #' @title
-#' MOP6 function generator.
+#' MOP6 function generator
 #'
 #' @description
 #' MOP6 function from Van Valedhuizen's test suite.

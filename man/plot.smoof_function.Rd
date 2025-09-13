@@ -2,7 +2,7 @@
 % Please edit documentation in R/plot.plot.R
 \name{plot.smoof_function}
 \alias{plot.smoof_function}
-\title{Generate ggplot2 object.}
+\title{Generate ggplot2 object}
 \usage{
 \method{plot}{smoof_function}(x, ...)
 }

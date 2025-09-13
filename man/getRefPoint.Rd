@@ -2,7 +2,7 @@
 % Please edit documentation in R/getRefPoint.R
 \name{getRefPoint}
 \alias{getRefPoint}
-\title{Returns the reference point of a multi-objective function.}
+\title{Returns the reference point of a multi-objective function}
 \usage{
 getRefPoint(fn)
 }
@@ -15,7 +15,7 @@ Objective function.}
  The reference point.
 }
 \description{
-Returns the reference point of a multi-objective function.
+Returns the reference point of a multi-objective function
 }
 \note{
 Keep in mind, that this method makes sense only for multi-objective target functions.

@@ -2,7 +2,7 @@
 % Please edit documentation in R/getWrappedFunction.R
 \name{getWrappedFunction}
 \alias{getWrappedFunction}
-\title{Extract wrapped function.}
+\title{Extract wrapped function}
 \usage{
 getWrappedFunction(fn, deepest = FALSE)
 }

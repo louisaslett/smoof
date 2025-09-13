@@ -2,7 +2,7 @@
 % Please edit documentation in R/mof.MOP2.R
 \name{makeMOP2Function}
 \alias{makeMOP2Function}
-\title{MOP2 function generator.}
+\title{MOP2 function generator}
 \usage{
 makeMOP2Function(dimensions = 2L)
 }

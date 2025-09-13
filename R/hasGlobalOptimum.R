@@ -1,4 +1,4 @@
-#' Checks whether the global optimum is known.
+#' Checks whether the global optimum is known
 #'
 #' @template arg_smoof_function
 #' @return [\code{logical(1)}]
@@ -23,7 +23,7 @@ hasGlobalOptimum.smoof_wrapped_function = function(fn) {
   return(hasGlobalOptimum(getWrappedFunction(fn)))
 }
 
-#' Checks whether local optima are known.
+#' Checks whether local optima are known
 #'
 #' @template arg_smoof_function
 #' @return [\code{logical(1)}]

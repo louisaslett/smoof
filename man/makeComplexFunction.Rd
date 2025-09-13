@@ -2,7 +2,7 @@
 % Please edit documentation in R/sof.complex.R
 \name{makeComplexFunction}
 \alias{makeComplexFunction}
-\title{Complex function.}
+\title{Complex function}
 \usage{
 makeComplexFunction()
 }

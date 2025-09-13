@@ -2,7 +2,7 @@
 % Please edit documentation in R/mnof.R
 \name{mnof}
 \alias{mnof}
-\title{Helper function to create a numeric multi-objective optimization test function.}
+\title{Helper function to create a numeric multi-objective optimization test function}
 \usage{
 mnof(
   name = NULL,

@@ -3,7 +3,7 @@
 \name{makeFunctionsByName}
 \alias{makeFunctionsByName}
 \title{Generate smoof function by passing a character vector of generator
-names.}
+names}
 \usage{
 makeFunctionsByName(fun.names, ...)
 }

@@ -1,4 +1,4 @@
-#' @title Jennrich-Sampson function.
+#' @title Jennrich-Sampson function
 #'
 #' @description Two-dimensional test function based on the formula
 #' \deqn{f(\mathbf{x}) = \sum_{i=1}^{10} \left[2 + 2i - (e^{ix_1} + e^{ix_2})\right]^2}

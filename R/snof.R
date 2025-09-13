@@ -1,5 +1,5 @@
 #' @title
-#' Helper function to create numeric single-objective optimization test function.
+#' Helper function to create numeric single-objective optimization test function
 #'
 #' @description
 #' This is a simplifying wrapper around \code{\link{makeSingleObjectiveFunction}}.

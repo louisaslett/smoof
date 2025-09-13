@@ -1,4 +1,4 @@
-#' Generator for single-objective target functions.
+#' Generator for single-objective target functions
 #'
 #' @template arg_name
 #' @template arg_id

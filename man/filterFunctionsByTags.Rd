@@ -2,7 +2,7 @@
 % Please edit documentation in R/filterFunctionsByTags.R
 \name{filterFunctionsByTags}
 \alias{filterFunctionsByTags}
-\title{Get a list of implemented test functions with specific tags.}
+\title{Get a list of implemented test functions with specific tags}
 \usage{
 filterFunctionsByTags(tags, or = FALSE)
 }

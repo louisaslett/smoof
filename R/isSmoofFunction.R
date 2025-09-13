@@ -1,5 +1,5 @@
 #' Checks whether the given object is a \code{smoof_function} or a
-#' \code{smoof_wrapped_function}.
+#' \code{smoof_wrapped_function}
 #'
 #' @param object [any]\cr
 #'   Arbitrary R object.

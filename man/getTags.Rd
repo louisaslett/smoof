@@ -2,7 +2,7 @@
 % Please edit documentation in R/getTags.R
 \name{getTags}
 \alias{getTags}
-\title{Returns the vector of associated tags.}
+\title{Returns the vector of associated tags}
 \usage{
 getTags(fn)
 }
@@ -15,5 +15,5 @@ Objective function.}
  Vector of associated tags.
 }
 \description{
-Returns the vector of associated tags.
+Returns the vector of associated tags
 }

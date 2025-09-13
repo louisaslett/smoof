@@ -2,7 +2,7 @@
 % Please edit documentation in R/hasTags.R
 \name{hasTags}
 \alias{hasTags}
-\title{Checks if the function has assigned special tags.}
+\title{Checks if the function has assigned special tags}
 \usage{
 hasTags(fn, tags)
 }

@@ -1,5 +1,5 @@
 #' @title
-#' Checks if the function has assigned special tags.
+#' Checks if the function has assigned special tags
 #'
 #' @description
 #' Each single-objective smoof function has tags assigned to it (see

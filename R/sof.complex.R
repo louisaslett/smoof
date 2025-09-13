@@ -1,4 +1,4 @@
-#' @title Complex function.
+#' @title Complex function
 #'
 #' @description Two-dimensional test function based on the formula
 #' \deqn{f(\mathbf{x}) = (x_1^3 - 3 x_1 x_2^2 - 1)^2 + (3 x_2 x_1^2 - x_2^3)^2}

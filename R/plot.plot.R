@@ -1,5 +1,5 @@
 #' @title
-#' Generate ggplot2 object.
+#' Generate ggplot2 object
 #' 
 #' @description
 #' This function generates a ggplot2 object for visualization.
@@ -24,7 +24,7 @@ plot.smoof_wrapped_function = function(x, ...) {
   plot(getWrappedFunction(x), ...)
 }
 
-#' Plot an one-dimensional function.
+#' Plot an one-dimensional function
 #'
 #' @param x [\code{smoof_function}]\cr
 #'   Function.
@@ -71,7 +71,7 @@ plot1DNumeric = function(x,
   }
 }
 
-#' Plot a two-dimensional numeric function.
+#' Plot a two-dimensional numeric function
 #'
 #' Either a contour-plot or a level-plot.
 #'

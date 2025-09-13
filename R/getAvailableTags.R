@@ -1,5 +1,5 @@
 #' @title
-#' Returns a character vector of possible function tags.
+#' Returns a character vector of possible function tags
 #'
 #' @description
 #' Test function are frequently distinguished by characteristic high-level properties,

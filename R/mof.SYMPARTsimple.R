@@ -1,5 +1,6 @@
 #' @title
 #' SYM-PART Simple Function
+#' @encoding UTF-8
 #'
 #' @description
 #' Test problem from the set of "multi-modal multi-objective functions" as for

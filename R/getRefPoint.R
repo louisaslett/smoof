@@ -1,4 +1,4 @@
-#' Returns the reference point of a multi-objective function.
+#' Returns the reference point of a multi-objective function
 #'
 #' @template arg_smoof_function
 #' @return [\code{numeric}]

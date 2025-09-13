@@ -1,5 +1,5 @@
 #' @title
-#' Swiler2014 function.
+#' Swiler2014 function
 #'
 #' @description Mixed parameter space with one discrete parameter \eqn{x_1 \in \{1, 2, 3, 4, 5\}}
 #' and two numerical parameters \eqn{x_1, x_2 \in [0, 1]}. The function is defined

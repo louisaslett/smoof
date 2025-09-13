@@ -4,7 +4,7 @@
 \alias{conversion}
 \alias{convertToMaximization}
 \alias{convertToMinimization}
-\title{Conversion between minimization and maximization problems.}
+\title{Conversion between minimization and maximization problems}
 \usage{
 convertToMaximization(fn)
 

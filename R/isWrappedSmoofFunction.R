@@ -1,4 +1,4 @@
-#' Checks whether the function is of type \code{smoof_wrapped_function}.
+#' Checks whether the function is of type \code{smoof_wrapped_function}
 #'
 #' @param object [any]\cr
 #'   Arbitrary R object.

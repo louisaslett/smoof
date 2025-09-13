@@ -2,7 +2,7 @@
 % Please edit documentation in R/isNoisy.R
 \name{isNoisy}
 \alias{isNoisy}
-\title{Checks whether the given function is noisy.}
+\title{Checks whether the given function is noisy}
 \usage{
 isNoisy(fn)
 }
@@ -15,5 +15,5 @@ Objective function.}
  \code{TRUE} if the function is noisy, \code{FALSE} otherwise.
 }
 \description{
-Checks whether the given function is noisy.
+Checks whether the given function is noisy
 }

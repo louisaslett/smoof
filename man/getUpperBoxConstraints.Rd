@@ -2,7 +2,7 @@
 % Please edit documentation in R/getBoxConstraints.R
 \name{getUpperBoxConstraints}
 \alias{getUpperBoxConstraints}
-\title{Return upper box constaints.}
+\title{Return upper box constraints}
 \usage{
 getUpperBoxConstraints(fn)
 }
@@ -14,5 +14,5 @@ Objective function.}
 [\code{numeric}]
 }
 \description{
-Return upper box constaints.
+Return upper box constraints
 }

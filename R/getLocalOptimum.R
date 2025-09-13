@@ -1,5 +1,5 @@
 #' @title
-#' Returns the local optima of a single objective smoof function.
+#' Returns the local optima of a single objective smoof function
 #'
 #' @description
 #' This function returns the parameters and objective values of
@@ -7,7 +7,7 @@
 #'
 #' @template arg_smoof_function
 #' @return [\code{list}] List containing the following entries:
-#' \itemize{
+#' \describe{
 #'   \item{param [\code{list}]}{List of parameter values per local optima.}
 #'   \item{value [\code{list}]}{List of objective values per local optima.}
 #'   \item{is.minimum [\code{logical(1)}]}{Are the local optima minima or maxima?}

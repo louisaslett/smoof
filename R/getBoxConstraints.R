@@ -1,4 +1,4 @@
-#' Returns lower box constraints for a Smoof function.
+#' Returns lower box constraints for a Smoof function
 #'
 #' @template arg_smoof_function
 #' @return [\code{numeric}]
@@ -18,7 +18,7 @@ getLowerBoxConstraints.smoof_wrapped_function = function(fn) {
   return(getLowerBoxConstraints(getWrappedFunction(fn)))
 }
 
-#' Return upper box constaints.
+#' Return upper box constraints
 #'
 #' @template arg_smoof_function
 #' @return [\code{numeric}]

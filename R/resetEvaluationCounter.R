@@ -1,4 +1,4 @@
-#' Reset evaluation counter.
+#' Reset evaluation counter
 #'
 #' @param fn [\code{smoof_counting_function}]\cr
 #'   Wrapped \code{smoof_function}.

@@ -2,7 +2,7 @@
 % Please edit documentation in R/plot.plot.R
 \name{plot1DNumeric}
 \alias{plot1DNumeric}
-\title{Plot an one-dimensional function.}
+\title{Plot an one-dimensional function}
 \usage{
 plot1DNumeric(
   x,
@@ -35,5 +35,5 @@ Further paramerters passed to plot function.}
 Nothing
 }
 \description{
-Plot an one-dimensional function.
+Plot an one-dimensional function
 }

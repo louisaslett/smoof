@@ -1,4 +1,4 @@
-#' Generator for function with multiple peaks following the multiple peaks model 2.
+#' Generator for function with multiple peaks following the multiple peaks model 2
 #'
 #' @param n.peaks [\code{integer(1)}]\cr
 #'   Desired number of peaks, i. e., number of (local) optima.

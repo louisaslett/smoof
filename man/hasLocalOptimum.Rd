@@ -2,7 +2,7 @@
 % Please edit documentation in R/hasGlobalOptimum.R
 \name{hasLocalOptimum}
 \alias{hasLocalOptimum}
-\title{Checks whether local optima are known.}
+\title{Checks whether local optima are known}
 \usage{
 hasLocalOptimum(fn)
 }
@@ -14,5 +14,5 @@ Objective function.}
 [\code{logical(1)}]
 }
 \description{
-Checks whether local optima are known.
+Checks whether local optima are known
 }

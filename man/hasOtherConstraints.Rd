@@ -2,7 +2,7 @@
 % Please edit documentation in R/hasConstraints.R
 \name{hasOtherConstraints}
 \alias{hasOtherConstraints}
-\title{Checks whether the objective function has other constraints.}
+\title{Checks whether the objective function has other constraints}
 \usage{
 hasOtherConstraints(fn)
 }
@@ -14,5 +14,5 @@ Objective function.}
 [\code{logical(1)}]
 }
 \description{
-Checks whether the objective function has other constraints.
+Checks whether the objective function has other constraints
 }

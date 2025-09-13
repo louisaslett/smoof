@@ -1,5 +1,5 @@
 #' @title
-#' Pareto-optimal front visualization.
+#' Pareto-optimal front visualization
 #'
 #' @description
 #' Quickly visualize the Pareto-optimal front of a bi-criteria objective

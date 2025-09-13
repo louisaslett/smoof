@@ -2,7 +2,7 @@
 % Please edit documentation in R/plot.plot.R
 \name{plot2DNumeric}
 \alias{plot2DNumeric}
-\title{Plot a two-dimensional numeric function.}
+\title{Plot a two-dimensional numeric function}
 \usage{
 plot2DNumeric(
   x,

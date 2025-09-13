@@ -2,7 +2,7 @@
 % Please edit documentation in R/computeExpectedRunningTime.R
 \name{computeExpectedRunningTime}
 \alias{computeExpectedRunningTime}
-\title{Compute the Expected Running Time (ERT) performance measure.}
+\title{Compute the Expected Running Time (ERT) performance measure}
 \usage{
 computeExpectedRunningTime(
   fun.evals,
@@ -38,11 +38,11 @@ was successful. Default is \code{Inf}.}
 \description{
 The functions can be called in two different ways
 \itemize{
-  \item{1. Pass a vector of function evaluations and a logical vector which
-  indicates which runs were successful (see details).}
-  \item{2. Pass a vector of function evaluation, a vector of reached target
+  \item 1. Pass a vector of function evaluations and a logical vector which
+  indicates which runs were successful (see details).
+  \item 2. Pass a vector of function evaluation, a vector of reached target
   values and a single target value. In this case the logical vector of
-  option 1. is computed internally.}
+  option 1. is computed internally.
 }
 }
 \details{

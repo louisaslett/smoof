@@ -1,5 +1,6 @@
 #' @title
 #' MMF8 Function
+#' @encoding UTF-8
 #'
 #' @description
 #' Test problem from the set of "multi-modal multi-objective functions" as for

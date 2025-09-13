@@ -1,5 +1,6 @@
 #' @title
 #' MMF13 Function
+#' @encoding UTF-8
 #'
 #' @description
 #' Test problem from the set of "multimodal multiobjective functions" as for

@@ -2,7 +2,7 @@
 % Please edit documentation in R/hasConstraints.R
 \name{hasBoxConstraints}
 \alias{hasBoxConstraints}
-\title{Checks whether the objective function has box constraints.}
+\title{Checks whether the objective function has box constraints}
 \usage{
 hasBoxConstraints(fn)
 }
@@ -14,5 +14,5 @@ Objective function.}
 [\code{logical(1)}]
 }
 \description{
-Checks whether the objective function has box constraints.
+Checks whether the objective function has box constraints
 }

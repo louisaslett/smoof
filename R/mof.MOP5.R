@@ -1,5 +1,5 @@
 #' @title
-#' MOP5 function generator.
+#' MOP5 function generator
 #'
 #' @description
 #' MOP5 function from Van Valedhuizen's test suite.

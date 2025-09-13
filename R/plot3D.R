@@ -1,5 +1,5 @@
 #' @title
-#' Surface plot of two-dimensional test function.
+#' Surface plot of two-dimensional test function
 #' 
 #' @description
 #' This function generates a surface plot of a two-dimensional smoof function.

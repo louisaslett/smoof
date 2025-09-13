@@ -1,4 +1,4 @@
-#' smoof: Single and Multi-Objective Optimization test functions.
+#' smoof: Single and Multi-Objective Optimization test functions
 #'
 #' The \pkg{smoof} R package provides generators for huge set of single- and
 #' multi-objective test functions, which are frequently used in the literature
@@ -45,6 +45,7 @@
 #' [3] Simon Wessing, The Multiple Peaks Model 2, Algorithm Engineering Report
 #' TR15-2-001, TU Dortmund University, 2015.
 #'
+#' @encoding UTF-8
 #' @docType package
 #' @name smoof-package
 NULL

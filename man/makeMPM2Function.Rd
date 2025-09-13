@@ -2,7 +2,7 @@
 % Please edit documentation in R/sof.mpm2.R
 \name{makeMPM2Function}
 \alias{makeMPM2Function}
-\title{Generator for function with multiple peaks following the multiple peaks model 2.}
+\title{Generator for function with multiple peaks following the multiple peaks model 2}
 \usage{
 makeMPM2Function(
   n.peaks,
@@ -46,7 +46,7 @@ MPM2 functions are used in a multi-objective setting.}
  An object of class \code{SingleObjectiveFunction}, representing the Multiple peaks model 2 Function.
 }
 \description{
-Generator for function with multiple peaks following the multiple peaks model 2.
+Generator for function with multiple peaks following the multiple peaks model 2
 }
 \examples{
 \dontrun{

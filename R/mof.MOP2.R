@@ -1,5 +1,5 @@
 #' @title
-#' MOP2 function generator.
+#' MOP2 function generator
 #'
 #' @description
 #' MOP2 function from Van Valedhuizen's test suite due to Fonseca and Fleming.

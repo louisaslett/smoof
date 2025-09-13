@@ -2,7 +2,7 @@
 % Please edit documentation in R/getLoggedValues.R
 \name{getLoggedValues}
 \alias{getLoggedValues}
-\title{Extracts the logged values of a function wrapped by a logging wrapper.}
+\title{Extracts the logged values of a function wrapped by a logging wrapper}
 \usage{
 getLoggedValues(fn, compact = FALSE)
 }
@@ -25,7 +25,7 @@ Wrap all logged values in a single data frame? Default is \code{FALSE}.}
   }
 }
 \description{
-Extracts the logged values of a function wrapped by a logging wrapper.
+Extracts the logged values of a function wrapped by a logging wrapper
 }
 \seealso{
 \code{\link{addLoggingWrapper}}

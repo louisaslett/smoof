@@ -1,4 +1,4 @@
-#' Checks whether the given function is multi-objective.
+#' Checks whether the given function is multi-objective
 #'
 #' @template arg_smoof_function
 #' @return [\code{logical(1)}] \code{TRUE} if function is multi-objective, \code{FALSE} otherwise.

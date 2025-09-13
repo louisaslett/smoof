@@ -1,5 +1,5 @@
 #' @title
-#' GOMOP function generator.
+#' GOMOP function generator
 #'
 #' @description
 #' Construct a multi-objective function by putting together multiple single-objective

@@ -1,5 +1,5 @@
 #' @title
-#' Get Data Frame of optima.
+#' Get Data Frame of optima
 #'
 #' @description
 #' This function returns data frame of global / local optima for visualization using ggplot.

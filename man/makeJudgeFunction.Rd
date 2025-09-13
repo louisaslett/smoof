@@ -2,7 +2,7 @@
 % Please edit documentation in R/sof.judge.R
 \name{makeJudgeFunction}
 \alias{makeJudgeFunction}
-\title{Judge function.}
+\title{Judge function}
 \usage{
 makeJudgeFunction()
 }

@@ -1,4 +1,4 @@
-#' Generator for multi-objective target functions.
+#' Generator for multi-objective target functions
 #'
 #' @template arg_name
 #' @template arg_id

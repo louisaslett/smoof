@@ -1,5 +1,5 @@
 #' @title
-#' Generate ggplot2 object.
+#' Generate ggplot2 object
 #'
 #' @description
 #' This function expects a smoof function and returns a ggplot object depicting

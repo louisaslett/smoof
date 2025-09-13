@@ -2,7 +2,7 @@
 % Please edit documentation in R/isWrappedSmoofFunction.R
 \name{isWrappedSmoofFunction}
 \alias{isWrappedSmoofFunction}
-\title{Checks whether the function is of type \code{smoof_wrapped_function}.}
+\title{Checks whether the function is of type \code{smoof_wrapped_function}}
 \usage{
 isWrappedSmoofFunction(object)
 }
@@ -15,5 +15,5 @@ Arbitrary R object.}
  \code{TRUE} if the object is a SMOOF wrapped function, \code{FALSE} otherwise.
 }
 \description{
-Checks whether the function is of type \code{smoof_wrapped_function}.
+Checks whether the function is of type \code{smoof_wrapped_function}
 }

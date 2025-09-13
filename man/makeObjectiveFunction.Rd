@@ -2,7 +2,7 @@
 % Please edit documentation in R/makeObjectiveFunction.R
 \name{makeObjectiveFunction}
 \alias{makeObjectiveFunction}
-\title{Internal generator for function of smoof type.}
+\title{Internal generator for function of smoof type}
 \usage{
 makeObjectiveFunction(
   name = NULL,
@@ -70,5 +70,5 @@ box constraints defined via the \code{par.set} argument.}
 [\code{function}] Target function with additional stuff attached as attributes.
 }
 \description{
-Internal generator for function of smoof type.
+Internal generator for function of smoof type
 }

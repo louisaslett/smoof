@@ -2,7 +2,7 @@
 % Please edit documentation in R/isMultiobjective.R
 \name{isMultiobjective}
 \alias{isMultiobjective}
-\title{Checks whether the given function is multi-objective.}
+\title{Checks whether the given function is multi-objective}
 \usage{
 isMultiobjective(fn)
 }
@@ -14,5 +14,5 @@ Objective function.}
 [\code{logical(1)}] \code{TRUE} if function is multi-objective, \code{FALSE} otherwise.
 }
 \description{
-Checks whether the given function is multi-objective.
+Checks whether the given function is multi-objective
 }

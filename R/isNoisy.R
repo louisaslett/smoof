@@ -1,4 +1,4 @@
-#' Checks whether the given function is noisy.
+#' Checks whether the given function is noisy
 #'
 #' @template arg_smoof_function
 #' @return [\code{logical(1)}]

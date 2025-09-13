@@ -1,4 +1,4 @@
-#' Internal generator for function of smoof type.
+#' Internal generator for function of smoof type
 #'
 #' @param name [\code{character(1)}]\cr
 #'   Optional function name used e.g. in plots.

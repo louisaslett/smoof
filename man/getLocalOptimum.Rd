@@ -2,7 +2,7 @@
 % Please edit documentation in R/getLocalOptimum.R
 \name{getLocalOptimum}
 \alias{getLocalOptimum}
-\title{Returns the local optima of a single objective smoof function.}
+\title{Returns the local optima of a single objective smoof function}
 \usage{
 getLocalOptimum(fn)
 }
@@ -12,7 +12,7 @@ Objective function.}
 }
 \value{
 [\code{list}] List containing the following entries:
-\itemize{
+\describe{
   \item{param [\code{list}]}{List of parameter values per local optima.}
   \item{value [\code{list}]}{List of objective values per local optima.}
   \item{is.minimum [\code{logical(1)}]}{Are the local optima minima or maxima?}

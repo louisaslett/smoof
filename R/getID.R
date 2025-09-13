@@ -1,5 +1,5 @@
 #' @title
-#' Returns the ID / short name of the function.
+#' Returns the ID / short name of the function
 #' 
 #' @description
 #' Returns the ID / short name of the function or \code{NA} if no ID is set.

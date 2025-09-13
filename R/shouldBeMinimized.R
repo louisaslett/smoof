@@ -1,4 +1,4 @@
-#' @title Check if function should be minimized.
+#' @title Check if function should be minimized
 #'
 #' @description Functions can have an associated global optimum. In this case
 #' one needs to know whether the optimum is a minimum or a maximum.

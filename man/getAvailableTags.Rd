@@ -2,7 +2,7 @@
 % Please edit documentation in R/getAvailableTags.R
 \name{getAvailableTags}
 \alias{getAvailableTags}
-\title{Returns a character vector of possible function tags.}
+\title{Returns a character vector of possible function tags}
 \usage{
 getAvailableTags()
 }

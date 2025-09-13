@@ -1,5 +1,5 @@
 #' @title
-#' Get a list of implemented test functions with specific tags.
+#' Get a list of implemented test functions with specific tags
 #'
 #' @description
 #' Single objective functions can be tagged, e.g., as unimodal. Searching for all

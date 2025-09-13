@@ -1,4 +1,4 @@
-#' @title Complex function.
+#' @title Complex function
 #'
 #' @description Two-dimensional test function based on the formula
 #' \deqn{f(\mathbf{x}) = (x_1^4 + x_2^4 + 2 x_1^2 x_2^2 - 4 x_1 + 3}

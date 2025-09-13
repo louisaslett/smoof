@@ -1,5 +1,5 @@
 #' @title 
-#' Kearfott function.
+#' Kearfott function
 #'
 #' @description 
 #' Two-dimensional test function based on the formula

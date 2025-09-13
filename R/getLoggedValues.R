@@ -1,4 +1,4 @@
-#' Extracts the logged values of a function wrapped by a logging wrapper.
+#' Extracts the logged values of a function wrapped by a logging wrapper
 #'
 #' @param fn [\code{wrapped_smoof_function}]\cr
 #'   Wrapped smoof function.

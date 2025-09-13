@@ -2,7 +2,7 @@
 % Please edit documentation in R/sof.engvall.R
 \name{makeEngvallFunction}
 \alias{makeEngvallFunction}
-\title{Complex function.}
+\title{Complex function}
 \usage{
 makeEngvallFunction()
 }

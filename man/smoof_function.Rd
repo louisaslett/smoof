@@ -7,7 +7,7 @@
 \title{Smoof function}
 \description{
 Regular R function with additional classes \code{smoof_function} and one of \code{smoof_single_objective_function}
-or code{smoof_multi_objective_function}. Both single- and multi-objective functions share the following attributes.
+or \code{smoof_multi_objective_function}. Both single- and multi-objective functions share the following attributes.
 \describe{
   \item{name [\code{character(1)}]}{Optional function name.}
   \item{id [\code{character(1)}]}{Short identifier.}

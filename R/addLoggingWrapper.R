@@ -1,5 +1,5 @@
 #' @title
-#' Return a function which internally stores x or y values.
+#' Return a function which internally stores x or y values
 #'
 #' @description
 #' Often it is desired and useful to store the optimization path, i.e., the evaluated

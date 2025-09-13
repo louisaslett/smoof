@@ -2,7 +2,7 @@
 % Please edit documentation in R/mof.MOP3.R
 \name{makeMOP3Function}
 \alias{makeMOP3Function}
-\title{MOP3 function generator.}
+\title{MOP3 function generator}
 \usage{
 makeMOP3Function(dimensions = 2L)
 }

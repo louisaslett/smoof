@@ -3,7 +3,7 @@
 \name{isSmoofFunction}
 \alias{isSmoofFunction}
 \title{Checks whether the given object is a \code{smoof_function} or a
-\code{smoof_wrapped_function}.}
+\code{smoof_wrapped_function}}
 \usage{
 isSmoofFunction(object)
 }
@@ -17,7 +17,7 @@ Arbitrary R object.}
 }
 \description{
 Checks whether the given object is a \code{smoof_function} or a
-\code{smoof_wrapped_function}.
+\code{smoof_wrapped_function}
 }
 \seealso{
 \code{\link{addCountingWrapper}}, \code{\link{addLoggingWrapper}}

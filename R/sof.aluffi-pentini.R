@@ -1,4 +1,4 @@
-#' @title Aluffi-Pentini function.
+#' @title Aluffi-Pentini function
 #'
 #' @description Two-dimensional test function based on the formula
 #' \deqn{f(\mathbf{x}) = 0.25 x_1^4 - 0.5 x_1^2 + 0.1 x_1 + 0.5 x_2^2}

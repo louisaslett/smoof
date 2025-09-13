@@ -2,7 +2,7 @@
 % Please edit documentation in R/sof.kearfott.R
 \name{makeKearfottFunction}
 \alias{makeKearfottFunction}
-\title{Kearfott function.}
+\title{Kearfott function}
 \usage{
 makeKearfottFunction()
 }

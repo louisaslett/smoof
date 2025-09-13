@@ -2,7 +2,7 @@
 % Please edit documentation in R/hasConstraints.R
 \name{hasConstraints}
 \alias{hasConstraints}
-\title{Checks whether the objective function has constraints.}
+\title{Checks whether the objective function has constraints}
 \usage{
 hasConstraints(fn)
 }
@@ -15,5 +15,5 @@ Objective function.}
  \code{TRUE} if the function has constraints, \code{FALSE} otherwise.
 }
 \description{
-Checks whether the objective function has constraints.
+Checks whether the objective function has constraints
 }

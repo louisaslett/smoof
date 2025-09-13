@@ -1,5 +1,5 @@
 #' @title
-#' Generator for noiseless function set of the real-parameter BBOB.
+#' Generator for noiseless function set of the real-parameter BBOB
 #' 
 #' @description
 #' Generator for the noiseless function set of the real-parameter Black-Box

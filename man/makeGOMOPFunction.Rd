@@ -2,7 +2,7 @@
 % Please edit documentation in R/mof.gomop.R
 \name{makeGOMOPFunction}
 \alias{makeGOMOPFunction}
-\title{GOMOP function generator.}
+\title{GOMOP function generator}
 \usage{
 makeGOMOPFunction(dimensions = 2L, funs = list())
 }

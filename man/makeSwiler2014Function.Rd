@@ -2,7 +2,7 @@
 % Please edit documentation in R/sof.swiler2014.R
 \name{makeSwiler2014Function}
 \alias{makeSwiler2014Function}
-\title{Swiler2014 function.}
+\title{Swiler2014 function}
 \usage{
 makeSwiler2014Function()
 }

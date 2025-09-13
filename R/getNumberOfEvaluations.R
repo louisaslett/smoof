@@ -1,5 +1,5 @@
 #' Returns the number of function evaluations performed by the wrapped
-#' \code{smoof_function}.
+#' \code{smoof_function}
 #'
 #' @param fn [\code{smoof_counting_function}]\cr
 #'   Wrapped \code{smoof_function}.

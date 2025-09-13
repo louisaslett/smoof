@@ -2,7 +2,7 @@
 % Please edit documentation in R/visualizeParetoOptimalFront.R
 \name{visualizeParetoOptimalFront}
 \alias{visualizeParetoOptimalFront}
-\title{Pareto-optimal front visualization.}
+\title{Pareto-optimal front visualization}
 \usage{
 visualizeParetoOptimalFront(fn, ...)
 }

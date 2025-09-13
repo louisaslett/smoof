@@ -2,7 +2,7 @@
 % Please edit documentation in R/isSingleobjective.R
 \name{isSingleobjective}
 \alias{isSingleobjective}
-\title{Checks whether the given function is single-objective.}
+\title{Checks whether the given function is single-objective}
 \usage{
 isSingleobjective(fn)
 }
@@ -14,5 +14,5 @@ Objective function.}
 [\code{logical(1)}] \code{TRUE} if function is single-objective, \code{FALSE} otherwise.
 }
 \description{
-Checks whether the given function is single-objective.
+Checks whether the given function is single-objective
 }

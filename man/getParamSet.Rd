@@ -2,7 +2,7 @@
 % Please edit documentation in R/getParamSet.R
 \name{getParamSet}
 \alias{getParamSet}
-\title{Get parameter set.}
+\title{Get parameter set}
 \arguments{
 \item{fn}{[\code{smoof_function}]\cr
 Objective function.}

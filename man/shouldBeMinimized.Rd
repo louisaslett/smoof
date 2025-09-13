@@ -2,7 +2,7 @@
 % Please edit documentation in R/shouldBeMinimized.R
 \name{shouldBeMinimized}
 \alias{shouldBeMinimized}
-\title{Check if function should be minimized.}
+\title{Check if function should be minimized}
 \usage{
 shouldBeMinimized(fn)
 }

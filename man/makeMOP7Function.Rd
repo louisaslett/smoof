@@ -2,7 +2,7 @@
 % Please edit documentation in R/mof.MOP7.R
 \name{makeMOP7Function}
 \alias{makeMOP7Function}
-\title{MOP7 function generator.}
+\title{MOP7 function generator}
 \usage{
 makeMOP7Function()
 }

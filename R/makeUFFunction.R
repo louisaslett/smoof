@@ -1,4 +1,4 @@
-#' Generator for the functions UF1, ..., UF10 of the CEC 2009.
+#' Generator for the functions UF1, ..., UF10 of the CEC 2009
 #'
 #' @template arg_dimensions
 #' @param id [\code{integer(1)}]\cr

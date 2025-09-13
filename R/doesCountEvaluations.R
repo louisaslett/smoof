@@ -1,5 +1,5 @@
 #' @title
-#' Check whether the function is counting its function evaluations.
+#' Check whether the function is counting its function evaluations
 #'
 #' @description
 #' In this case, the function is of type \code{smoof_counting_function} or it

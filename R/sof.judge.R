@@ -1,5 +1,5 @@
 #' @title 
-#' Judge function.
+#' Judge function
 #'
 #' @description 
 #' Two-dimensional test function based on the formula

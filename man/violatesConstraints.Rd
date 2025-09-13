@@ -2,7 +2,7 @@
 % Please edit documentation in R/violatesConstraints.R
 \name{violatesConstraints}
 \alias{violatesConstraints}
-\title{Checks whether constraints are violated.}
+\title{Checks whether constraints are violated}
 \usage{
 violatesConstraints(fn, values)
 }
@@ -17,5 +17,5 @@ List of values.}
 [\code{logical(1)}]
 }
 \description{
-Checks whether constraints are violated.
+Checks whether constraints are violated
 }

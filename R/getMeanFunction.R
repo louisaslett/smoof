@@ -1,4 +1,4 @@
-#' Returns the true mean function in the noisy case.
+#' Returns the true mean function in the noisy case
 #'
 #' @template arg_smoof_function
 #' @return [\code{function}]

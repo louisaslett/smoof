@@ -1,5 +1,5 @@
 #' @title
-#' Conversion between minimization and maximization problems.
+#' Conversion between minimization and maximization problems
 #'
 #' @description
 #' We can minimize f by maximizing -f. The majority of predefined objective functions

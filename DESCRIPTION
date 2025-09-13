@@ -48,5 +48,5 @@ Suggests:
     covr
 ByteCompile: yes
 LinkingTo: Rcpp, RcppArmadillo
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.3
 Encoding: UTF-8

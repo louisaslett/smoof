@@ -1,4 +1,4 @@
-#' Determines the number of objectives.
+#' Determines the number of objectives
 #'
 #' @template arg_smoof_function
 #' @return [\code{integer(1)}]

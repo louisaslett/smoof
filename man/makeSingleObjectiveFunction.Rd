@@ -2,7 +2,7 @@
 % Please edit documentation in R/makeSingleObjectiveFunction.R
 \name{makeSingleObjectiveFunction}
 \alias{makeSingleObjectiveFunction}
-\title{Generator for single-objective target functions.}
+\title{Generator for single-objective target functions}
 \usage{
 makeSingleObjectiveFunction(
   name = NULL,
@@ -99,7 +99,7 @@ only the \code{local.opt.params} are passed, the values are computed automatical
 [\code{function}] Objective function with additional stuff attached as attributes.
 }
 \description{
-Generator for single-objective target functions.
+Generator for single-objective target functions
 }
 \examples{
 library(ggplot2)

@@ -2,7 +2,7 @@
 % Please edit documentation in R/isVectorized.R
 \name{isVectorized}
 \alias{isVectorized}
-\title{Checks whether the given function accepts \dQuote{vectorized} input.}
+\title{Checks whether the given function accepts \dQuote{vectorized} input}
 \usage{
 isVectorized(fn)
 }
@@ -15,5 +15,5 @@ Objective function.}
  \code{TRUE} if the function accepts vectorized input, \code{FALSE} otherwise.
 }
 \description{
-Checks whether the given function accepts \dQuote{vectorized} input.
+Checks whether the given function accepts \dQuote{vectorized} input
 }

@@ -1,5 +1,5 @@
 #' @title
-#' MOP4 function generator.
+#' MOP4 function generator
 #'
 #' @description
 #' MOP4 function from Van Valedhuizen's test suite based on Kursawe.

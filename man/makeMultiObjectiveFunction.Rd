@@ -2,7 +2,7 @@
 % Please edit documentation in R/makeMultiObjectiveFunction.R
 \name{makeMultiObjectiveFunction}
 \alias{makeMultiObjectiveFunction}
-\title{Generator for multi-objective target functions.}
+\title{Generator for multi-objective target functions}
 \usage{
 makeMultiObjectiveFunction(
   name = NULL,
@@ -76,7 +76,7 @@ Optional reference point in the objective space, e.g., for hyper-volume computat
 [\code{function}] Target function with additional stuff attached as attributes.
 }
 \description{
-Generator for multi-objective target functions.
+Generator for multi-objective target functions
 }
 \examples{
 fn = makeMultiObjectiveFunction(

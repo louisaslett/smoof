@@ -2,7 +2,7 @@
 % Please edit documentation in R/doesCountEvaluations.R
 \name{doesCountEvaluations}
 \alias{doesCountEvaluations}
-\title{Check whether the function is counting its function evaluations.}
+\title{Check whether the function is counting its function evaluations}
 \usage{
 doesCountEvaluations(object)
 }

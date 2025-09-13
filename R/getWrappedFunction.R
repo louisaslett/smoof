@@ -1,5 +1,5 @@
 #' @title
-#' Extract wrapped function.
+#' Extract wrapped function
 #'
 #' @description
 #' The \pkg{smoof} package offers means to let a function log its evaluations or
